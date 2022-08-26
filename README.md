@@ -12,10 +12,10 @@ The tools I'm using now are Flutter/Dart, PHP, JavaEE/TomCat, and Qt/C++
 
 Here are the links to all my social networks
 
-- [Github](github.com/GodWindows)
-- [WhatsApp](wa.me/+22951825448)
-- [Twitter](twitter.com/Juphil_KLS)
-- [LinkedIn](linkedin.com/in/godwin-kanlinsou-a3133823b)
+- [Github](https://github.com/GodWindows)
+- [WhatsApp](https://wa.me/+22951825448)
+- [Twitter](https://twitter.com/Juphil__KLS)
+- [LinkedIn](https://linkedin.com/in/godwin-kanlinsou-a3133823b)
 
 
 #### See ya...

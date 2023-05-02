@@ -14,7 +14,6 @@ Here are the links to all my social networks
 
 - [Github](https://github.com/GodWindows)
 - [WhatsApp](https://wa.me/+22951825448)
-- [Twitter](https://twitter.com/Juphil__KLS)
 - [LinkedIn](https://linkedin.com/in/godwin-kanlinsou-a3133823b)
 
 

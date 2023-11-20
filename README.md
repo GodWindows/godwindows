@@ -6,14 +6,13 @@ My name is Godwin KANLINSOU, I'm a backend developper in mobile and web technolo
 
 ### Technologies
 
-The tools I'm using now are Flutter/Dart, PHP, JavaEE/TomCat, and Qt/C++
+The tools I'm using now are Flutter/Dart, PHP, Java, Laravel
 
 ### Social links
 
 Here are the links to all my social networks
 
-- [Github](https://github.com/GodWindows)
-- [WhatsApp](https://wa.me/+22951825448)
+- [IG](https://www.instagram.com/godwindows_/)
 - [LinkedIn](https://linkedin.com/in/godwin-kanlinsou-a3133823b)
 
 

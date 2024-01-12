@@ -2,7 +2,7 @@
 
 ### Summary
 
-My name is Godwin KANLINSOU, I'm a backend developper in mobile and web technologies. I'm actually improving my knowledges in Flutter, Laravel and Spring  :smile:. I'm interested in IT, AI, Social Behaviors, Human Mind and Cinema :smile:
+My name is Godwin KANLINSOU, I'm a backend developper in mobile and web technologies. I'm actually improving my knowledges in Flutter, Laravel and Spring . I'm interested in IT, AI, Social Behaviors, Human Mind and Cinema :smile:
 
 ### Technologies
 

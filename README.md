@@ -2,7 +2,7 @@
 
 ### Summary
 
-My name is Godwin KANLINSOU, I'm a backend developper in mobile and web technologies. I'm actually improving my knowledges in Spring, Laravel and Flutter . I'm actually looking for an apprenticeship for September 2024 at EFREI Paris I'm interested in IT, AI, Social Behaviors, Human Mind and Cinema :smile:
+My name is Godwin KANLINSOU, I'm a backend developper in mobile and web technologies. I'm actually improving my knowledges in Spring, Laravel and Flutter . I'm interested in IT, AI, Social Behaviors, Human Mind and Cinema :smile:
 
 ### Technologies
 
